@@ -77,3 +77,24 @@ body {
 }
 
 /******** END TOP NAVIGATION **********/
+
+/************* ABOUT ME ************/
+#aboutMeLogo {
+    width: 200px;
+    box-ordinal-group: 2;
+    order: 1;
+    align-items: center;
+}
+
+#about-me {
+    font-family: Poppins;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
